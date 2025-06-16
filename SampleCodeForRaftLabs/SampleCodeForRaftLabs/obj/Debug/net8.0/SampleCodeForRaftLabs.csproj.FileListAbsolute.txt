@@ -1,0 +1,11 @@
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\bin\Debug\net8.0\SampleCodeForRaftLabs.deps.json
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\bin\Debug\net8.0\SampleCodeForRaftLabs.dll
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\bin\Debug\net8.0\SampleCodeForRaftLabs.pdb
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\SampleCodeForRaftLabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\SampleCodeForRaftLabs.AssemblyInfoInputs.cache
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\SampleCodeForRaftLabs.AssemblyInfo.cs
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\SampleCodeForRaftLabs.csproj.CoreCompileInputs.cache
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\SampleCodeForRaftLabs.dll
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\refint\SampleCodeForRaftLabs.dll
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\SampleCodeForRaftLabs.pdb
+D:\Projects\SampleCodeForRaftLabs\SampleCodeForRaftLabs\obj\Debug\net8.0\ref\SampleCodeForRaftLabs.dll

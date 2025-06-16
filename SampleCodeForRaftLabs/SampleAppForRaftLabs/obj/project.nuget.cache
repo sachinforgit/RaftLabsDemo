@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LP6/WXTiTfY=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SampleCodeForRaftLabs\\SampleAppForRaftLabs\\SampleAppForRaftLabs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sachin\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.6\\system.configuration.configurationmanager.9.0.6.nupkg.sha512",
+    "C:\\Users\\Sachin\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.6\\system.diagnostics.eventlog.9.0.6.nupkg.sha512",
+    "C:\\Users\\Sachin\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
